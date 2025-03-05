@@ -71,8 +71,6 @@ Follow below steps to use Codespaces.
 3) Client ID and Client Secrets are required for running the application in codespace.
 ![image](https://github.com/user-attachments/assets/cbbc4521-aa43-403f-9243-e3c555e67f4a)
 
-
-
 ### Link to codespaces 
 
 | Application | Codespaces Link |
@@ -95,7 +93,6 @@ Follow below steps to use Codespaces.
 | Vue + PHP | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypal-examples/fastlane-sample-application?devcontainer_path=.devcontainer%2Fvue_php%2Fdevcontainer.json)|
 | Vue + Python | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypal-examples/fastlane-sample-application?devcontainer_path=.devcontainer%2Fvue_python%2Fdevcontainer.json)|
 | Vue + Ruby | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/paypal-examples/fastlane-sample-application?devcontainer_path=.devcontainer%2Fvue_ruby%2Fdevcontainer.json)|
-
 
 ### Learn more 
 
